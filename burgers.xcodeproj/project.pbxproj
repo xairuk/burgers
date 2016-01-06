@@ -47,6 +47,7 @@
 		A6935B0A1C3C93B1004EA3A1 /* burgersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = burgersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6935B0E1C3C93B1004EA3A1 /* burgersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = burgersUITests.swift; sourceTree = "<group>"; };
 		A6935B101C3C93B1004EA3A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6935B1C1C3CCB27004EA3A1 /* Repaso.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Repaso.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				A6935AF51C3C93B1004EA3A1 /* Assets.xcassets */,
 				A6935AF71C3C93B1004EA3A1 /* LaunchScreen.storyboard */,
 				A6935AFA1C3C93B1004EA3A1 /* Info.plist */,
+				A6935B1D1C3CCB34004EA3A1 /* playgroundRepaso */,
 			);
 			path = burgers;
 			sourceTree = "<group>";
@@ -123,6 +125,14 @@
 				A6935B101C3C93B1004EA3A1 /* Info.plist */,
 			);
 			path = burgersUITests;
+			sourceTree = "<group>";
+		};
+		A6935B1D1C3CCB34004EA3A1 /* playgroundRepaso */ = {
+			isa = PBXGroup;
+			children = (
+				A6935B1C1C3CCB27004EA3A1 /* Repaso.playground */,
+			);
+			name = playgroundRepaso;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
